@@ -15,12 +15,12 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Screenshot
 
-![](https://github.com/Dejmian11/9-Four-card-feature-section/blob/master/images/design/Screenshot%20-%20Frontend%20Mentor%20Four%20card%20feature%20section.png)
+![](https://github.com/Dejmian11/10-Single-price-grid-component/blob/master/images/design/Screenshot%20-%20Frontend%20Mentor%20Single%20Price%20Grid%20Component.png)
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/four-card-feature-section-build-with-sass-ezhHY8yMdJ)
-- Live Site URL: [Live](https://velvety-douhua-016a29.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/single-price-grid-component-build-with-sass-e8jJzIfP5z)
+- Live Site URL: [Live](https://musical-dodol-fa5065.netlify.app/)
 
 ## My process
 
