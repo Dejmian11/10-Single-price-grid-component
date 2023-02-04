@@ -10,6 +10,7 @@
 	@include respond(md) {
 		grid-template-columns: repeat(2, 1fr);
 		max-width: 635px;
+		border-radius: 0.5rem;
 	}
 
 	&__block {
