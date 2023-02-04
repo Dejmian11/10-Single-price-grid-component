@@ -1,0 +1,15 @@
+@use '../abstracts' as *;
+
+// GOOGLE FONTS
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+.heading-secondary {
+	color: var(--clr-primary-400);
+	font-size: var(--fs-heading-secondary);
+	font-weight: var(--fw-bold);
+}
+
+.heading-tertiary {
+	font-size: var(--fs-heading-tertiary);
+	font-weight: var(--fw-bold);
+}
